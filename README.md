@@ -2,7 +2,11 @@
 알엔 라인 로그인 헤더 복붙용
 - [알엔 라인 주소 라이브러리](https://github.com/xmartlabs/react-native-line)
 - 해당 [readme](https://github.com/xmartlabs/react-native-line/blob/master/README.md) 에 기재된 ios 설치 메뉴얼 1번 2번 항목에서
-- `use_frameworks!` 와 `platform 10.0` 이 아닌  ~~use_frameworks!~~ 제거 후 11로 설정 후 RNLine 에
+- `use_frameworks!` 와 `platform 10.0` 이 아닌  ~~use_frameworks!~~ 제거 후 11로 설정 후 RNLine 모듈
+
+Pods > Development Pods > RNLine > LineLogin.h 파일을
+
+
 
 ```
 
